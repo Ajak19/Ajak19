@@ -13,7 +13,7 @@ I'm particularly interested in software development, database systems, and using
 * 🎓 BSc Software Engineering student at USIU-Africa
 * 💻 Passionate about Java, MySQL, and desktop application development
 * 🌱 Currently expanding my skills in full-stack development and modern software engineering practices
-* 🔍 Interested in software architecture, databases, and business automation systems
+* 🔍 Interested in web development, Machine learning and business automation systems
 * 🤝 Open to collaborating on software development projects and open-source initiatives
 
 ---
@@ -32,8 +32,8 @@ I'm particularly interested in software development, database systems, and using
 
 * HTML
 * CSS
-* React (Learning)
-* Node.js (Learning)
+* React.js
+
 
 ### Databases
 
@@ -71,29 +71,19 @@ Java • Java Swing • MySQL • JDBC
 
 ---
 
-### 🌿 NileEnviro Solutions
 
-A business management platform designed for environmental services, including pest control, fumigation, sanitation, and other integrated environmental solutions.
-
-**Planned Features**
-
-* Customer management
-* Job scheduling
-* Service tracking
-* Staff management
-* Billing and invoicing
-* Business reporting
 
 ---
 
 ## 📈 Currently Learning
 
 * Advanced Java
-* React
+* Advanced Python
 * Node.js
 * REST APIs
 * Software Architecture
 * DevOps Fundamentals
+* 
 
 ---
 
